@@ -1,3 +1,6 @@
+First website I build during my full stack developer course. Very basic, just practise.
+
+
 # My Very First Web Page
 
 Welcome!
